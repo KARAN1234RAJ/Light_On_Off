@@ -2,7 +2,7 @@ body{
      background-color: #ffffff;
 } 
 #heading {
-     color: hsl(69, 96%, 48%);
+     color: hsl(221, 96%, 48%);
      margin-left: 20px;
      text-align: center;
    }
@@ -16,9 +16,9 @@ body{
 }
 
 button{
-     background-color: rgb(85, 109, 245); /* Green */
+     background-color:#20B2AA; /* Green */
   border: none;
-  color: hsla(0, 100%, 50%, 0.514);
+  color: #F0E68C;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
